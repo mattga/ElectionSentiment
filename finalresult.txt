@@ -1,0 +1,207 @@
+twitter evaluation
+positive 19
+negative 72
+neutral  10
+total   101
+naive bayes accuracy: 58/101=57.43%
+KNN accuracy: 56/101=55.45%
+
+youtube evaluation
+positive 43
+negative 58
+neutral   5
+total   106
+naive bayes accuracy: 66/106=62.26%
+KNN accuracy: 65/106=61.32%
+
+twitter
+Bencarson
+Naive Bayes:
+positive= 48.17311581501955%
+negative= 51.399937081479486%
+neutral= 0.4269471035009662%
+KNN:
+positive= 44.54631252527976%
+negative= 52.168441867781226%
+neutral= 3.2852456069390144%
+Total number: 22251.0
+
+Bernie
+Naive Bayes:
+positive= 60.65402096580911%
+negative= 37.82266509764972%
+neutral= 1.5233139365411814%
+KNN:
+positive= 57.99173027303054%
+negative= 37.38866637157632%
+neutral= 4.619603355393136%
+Total number: 92627.0
+
+Hillary
+Naive Bayes:
+positive= 34.655415765477606%
+negative= 65.16282328570993%
+neutral= 0.1817609488124613%
+KNN:
+positive= 32.67635381444137%
+negative= 65.05214203755038%
+neutral= 2.271504148008245%
+Total number: 98481.0
+
+Jeb Bush
+Naive Bayes:
+positive= 49.46236559139785%
+negative= 50.31362007168458%
+neutral= 0.2240143369175627%
+KNN:
+positive= 52.48655913978495%
+negative= 44.57885304659498%
+neutral= 2.934587813620072%
+Total number: 4464.0
+
+Omalley
+Naive Bayes:
+positive= 58.377239199157%
+negative= 41.51738672286617%
+neutral= 0.10537407797681769%
+KNN:
+positive= 62.4868282402529%
+negative= 34.87881981032666%
+neutral= 2.634351949420443%
+Total number: 949.0
+
+Rubio
+Naive Bayes:
+positive= 51.630615640599%
+negative= 47.8369384359401%
+neutral= 0.5324459234608985%
+KNN:
+positive= 52.1630615640599%
+negative= 44.143094841930115%
+neutral= 3.6938435940099836%
+Total number: 6010.0
+
+Sanders
+Naive Bayes:
+positive= 63.84644055162132%
+negative= 35.81811405143496%
+neutral= 0.3354453969437197%
+KNN:
+positive= 60.79016026835632%
+negative= 33.95452851285874%
+neutral= 5.255311218784942%
+Total number: 2683.0
+
+Ted Cruz
+Naive Bayes:
+positive= 57.69218434302941%
+negative= 42.00635002084603%
+neutral= 0.301465636124563%
+KNN:
+positive= 29.755299701741443%
+negative= 68.26272409480131%
+neutral= 1.9819762034572337%
+Total number: 31181.0
+
+Trump
+Naive Bayes:
+positive= 57.31099787039854%
+negative= 41.99593094006693%
+neutral= 0.69307118953453%
+KNN:
+positive= 52.601156069364166%
+negative= 43.94299513233952%
+neutral= 3.455848798296319%
+Total number: 105184.0
+
+
+Youtube
+
+Bernie
+Naive Bayes:
+positive= 47.566105769230774%
+negative= 48.09194711538461%
+neutral= 4.341947115384615%
+KNN:
+positive= 52.98978365384615%
+negative= 45.91346153846153%
+neutral= 1.0967548076923077%
+Total number: 6656.0
+
+Ben Carson
+Naive Bayes:
+positive= 43.5135979993748%
+negative= 51.55777847243931%
+neutral= 4.9286235281858914%
+KNN:
+positive= 50.45326664582682%
+negative= 48.20256330103157%
+neutral= 1.3441700531416068%
+Total number: 9597.0
+
+Hillary
+Naive Bayes:
+positive= 37.94886807181889%
+negative= 56.70374707259953%
+neutral= 5.347384855581576%
+KNN:
+positive= 45.48204527712724%
+negative= 53.161592505854806%
+neutral= 1.3563622170179546%
+Total number: 10248.0
+
+Jeb Bush
+Naive Bayes:
+positive= 36.53846153846153%
+negative= 57.61538461538461%
+neutral= 5.846153846153846%
+KNN:
+positive= 46.07692307692307%
+negative= 52.46153846153846%
+neutral= 1.4615384615384615%
+Total number: 2600.0
+
+Omalley
+Naive Bayes:
+positive= 53.65853658536586%
+negative= 43.90243902439025%
+neutral= 2.4390243902439024%
+KNN:
+positive= 48.78048780487805%
+negative= 51.21951219512195%
+neutral= 0.0%
+Total number: 41.0
+
+Rubio
+Naive Bayes:
+positive= 42.738589211618255%
+negative= 52.88151221761181%
+neutral= 4.37989857076994%
+KNN:
+positive= 49.100968188105114%
+negative= 50.023052097740894%
+neutral= 0.875979714153988%
+Total number: 2169.0
+
+Ted Cruz
+Naive Bayes:
+positive= 40.7264722069345%
+negative= 54.100165107319754%
+neutral= 5.173362685745735%
+KNN:
+positive= 47.82608695652174%
+negative= 50.963126031920744%
+neutral= 1.2107870115575123%
+Total number: 1817.0
+
+Trump
+Naive Bayes:
+positive= 50.91010921310557%
+negative= 44.567348081769815%
+neutral= 4.522542705124615%
+KNN:
+positive= 52.74432931951834%
+negative= 46.44357322878746%
+neutral= 0.8120974516942034%
+Total number: 7142.0
+
